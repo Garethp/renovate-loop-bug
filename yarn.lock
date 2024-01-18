@@ -12,10 +12,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"isarray@npm:2.0.0":
-  version: 2.0.0
-  resolution: "isarray@npm:2.0.0"
-  checksum: ff97cb1d8cfa9cbe2cdd033e607c53d69a39df76027b8525a0bf4e59a8dba50e3c8141c35c8305c1334f521e7ff5aa95b071de2c84a83b2973928210877aa544
+"isarray@npm:2.0.5":
+  version: 2.0.5
+  resolution: "isarray@npm:2.0.5"
+  checksum: bd5bbe4104438c4196ba58a54650116007fa0262eccef13a4c55b2e09a5b36b59f1e75b9fcc49883dd9d4953892e6fc007eef9e9155648ceea036e184b0f930a
   languageName: node
   linkType: hard
 
@@ -24,6 +24,6 @@ __metadata:
   resolution: "renovate-service@workspace:."
   dependencies:
     is-arrayish: ^0.3.0
-    isarray: 2.0.0
+    isarray: 2.0.5
   languageName: unknown
   linkType: soft
