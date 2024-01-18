@@ -3,10 +3,10 @@
   "private": true,
   "dependencies": {
     "is-arrayish": "^0.3.0",
-    "isarray": "2.0.0"
+    "isarray": "2.0.5"
   },
   "scripts": {
     "renovate": "npx renovate"
   },
-  "packageManager": "yarn@3.2.3"
+  "packageManager": "yarn@3.7.0"
 }
