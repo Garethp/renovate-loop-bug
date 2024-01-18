@@ -6,16 +6,16 @@ __metadata:
   cacheKey: 8
 
 "is-arrayish@npm:^0.3.0":
-  version: 0.3.0
-  resolution: "is-arrayish@npm:0.3.0"
-  checksum: d44c38cfccee7eed56298a8ce29de209e6aa94aa9275614070a6605f9b2184efcdba7add435f0b18f7d078ec661ae08dd0e49804c76029950fdef1bcc0da0303
+  version: 0.3.2
+  resolution: "is-arrayish@npm:0.3.2"
+  checksum: 977e64f54d91c8f169b59afcd80ff19227e9f5c791fa28fa2e5bce355cbaf6c2c356711b734656e80c9dd4a854dd7efcf7894402f1031dfc5de5d620775b4d5f
   languageName: node
   linkType: hard
 
-"isarray@npm:2.0.0":
-  version: 2.0.0
-  resolution: "isarray@npm:2.0.0"
-  checksum: ff97cb1d8cfa9cbe2cdd033e607c53d69a39df76027b8525a0bf4e59a8dba50e3c8141c35c8305c1334f521e7ff5aa95b071de2c84a83b2973928210877aa544
+"isarray@npm:2.0.5":
+  version: 2.0.5
+  resolution: "isarray@npm:2.0.5"
+  checksum: bd5bbe4104438c4196ba58a54650116007fa0262eccef13a4c55b2e09a5b36b59f1e75b9fcc49883dd9d4953892e6fc007eef9e9155648ceea036e184b0f930a
   languageName: node
   linkType: hard
 
@@ -24,6 +24,6 @@ __metadata:
   resolution: "renovate-service@workspace:."
   dependencies:
     is-arrayish: ^0.3.0
-    isarray: 2.0.0
+    isarray: 2.0.5
   languageName: unknown
   linkType: soft
