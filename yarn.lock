@@ -2,20 +2,20 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
-  version: 6
-  cacheKey: 8
+  version: 8
+  cacheKey: 10
 
 "is-arrayish@npm:^0.3.0":
   version: 0.3.0
   resolution: "is-arrayish@npm:0.3.0"
-  checksum: d44c38cfccee7eed56298a8ce29de209e6aa94aa9275614070a6605f9b2184efcdba7add435f0b18f7d078ec661ae08dd0e49804c76029950fdef1bcc0da0303
+  checksum: 8/d44c38cfccee7eed56298a8ce29de209e6aa94aa9275614070a6605f9b2184efcdba7add435f0b18f7d078ec661ae08dd0e49804c76029950fdef1bcc0da0303
   languageName: node
   linkType: hard
 
 "isarray@npm:2.0.0":
   version: 2.0.0
   resolution: "isarray@npm:2.0.0"
-  checksum: ff97cb1d8cfa9cbe2cdd033e607c53d69a39df76027b8525a0bf4e59a8dba50e3c8141c35c8305c1334f521e7ff5aa95b071de2c84a83b2973928210877aa544
+  checksum: 8/ff97cb1d8cfa9cbe2cdd033e607c53d69a39df76027b8525a0bf4e59a8dba50e3c8141c35c8305c1334f521e7ff5aa95b071de2c84a83b2973928210877aa544
   languageName: node
   linkType: hard
 
@@ -23,7 +23,7 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "renovate-service@workspace:."
   dependencies:
-    is-arrayish: ^0.3.0
-    isarray: 2.0.0
+    is-arrayish: "npm:^0.3.0"
+    isarray: "npm:2.0.0"
   languageName: unknown
   linkType: soft
